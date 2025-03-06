@@ -1,4 +1,7 @@
+
 # To-Do List em React
+
+![logo do projeto](https://imgur.com/9ifd81l.png)
 
 Este é um projeto simples de uma lista de tarefas (To-Do List) desenvolvido em React. Ele permite adicionar, marcar como concluída, filtrar e excluir tarefas. O projeto foi criado com o objetivo de praticar conceitos básicos de React, como gerenciamento de estado, componentização e uso de bibliotecas como React Bootstrap.
 
