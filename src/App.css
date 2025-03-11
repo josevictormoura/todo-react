@@ -1,0 +1,33 @@
+*{
+  box-sizing: border-box;
+}
+
+.app{
+  box-shadow: none;
+}
+
+@media (min-width: 500px) {
+  .app{
+    box-shadow: #00000059 0 5px 15px;
+  }
+}
+
+/* .containerTarefa{
+  display: grid;
+  grid-template-columns: 1fr, 1fr;
+} */
+
+/* .flex-1{
+  flex: 1;
+}
+
+.flex-0{
+  flex: 0;
+} */
+
+.tarefa{
+  overflow-x: hidden;
+  text-overflow: ellipsis;
+  word-break: break-all;
+  white-space: nowrap;
+}
